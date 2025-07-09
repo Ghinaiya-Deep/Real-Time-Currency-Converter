@@ -11,7 +11,7 @@ A sleek and responsive web application built with **React.js** that allows users
 🚨 Error handling and loading states included
 
 🛠️ Tech Stack
-- ⚛️ React.js (Frontend Framework)  
+- ⚛️ TypeScript (Frontend Framework)  
 - 🌐 REST API via [ExchangeRate.host](https://exchangerate.host)  
 - 💅 Tailwind CSS (or CSS Modules)  
 - 🔁 Axios / Fetch API for API calls  
